@@ -180,6 +180,7 @@ else {
 pow--;
 }
 }
-System.out.println(); // for next line
+System.out.println("\n");// for next line
 }
 }
+
